@@ -160,7 +160,7 @@ const Login = ({ onLogin }) => {
               Don't have an account?{' '}
               <Link to="/register" className="text-primary-600 hover:text-primary-700 font-medium">
                 Register here
-              </Link>
+              </Link> 
             </p>
           </div>
         </div>
